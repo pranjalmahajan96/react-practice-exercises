@@ -1,26 +1,27 @@
 # react-practice-exercises
  
 counter in react
-https://c76dr.csb.app/
+https://codesandbox.io/s/counter-in-react-c76dr
 
 character counter
-https://84dgs.csb.app/
+https://codesandbox.io/s/char-count-84dgs
 
 password match
-https://zbbk2.csb.app/
+https://codesandbox.io/s/password-match-zbbk2
 
 alphanumeric password
-https://c03p7.csb.app/
+https://codesandbox.io/s/alphanumeric-password-c03p7
 
 disable submit
-https://6yong.csb.app/
+https://codesandbox.io/s/alphanumeric-pswd-disable-submit-6yong
 
 show/hide password
-https://4lej6.csb.app/
+https://codesandbox.io/s/showhide-password-4lej6
 
 designer tool (small figma)
-https://lgjxf.csb.app/
+https://codesandbox.io/s/designer-tool-small-figma-lgjxf
 
 like in a list
-https://rjmo3.csb.app/
+https://codesandbox.io/s/like-in-a-list-rjmo3
+
 
