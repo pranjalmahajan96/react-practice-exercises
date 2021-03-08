@@ -21,6 +21,9 @@ https://codesandbox.io/s/showhide-password-4lej6
 designer tool (small figma)
 https://codesandbox.io/s/designer-tool-small-figma-lgjxf
 
+switch tabs
+https://codesandbox.io/s/switch-tabs-juwo4
+
 like in a list
 https://codesandbox.io/s/like-in-a-list-rjmo3
 
