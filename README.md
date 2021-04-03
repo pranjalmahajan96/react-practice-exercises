@@ -21,6 +21,9 @@ https://codesandbox.io/s/showhide-password-4lej6
 designer tool (small figma)
 https://codesandbox.io/s/designer-tool-small-figma-lgjxf
 
+add to cart
+https://codesandbox.io/s/add-to-cart-basic-5pv5n?file=/src/App.js
+
 switch tabs
 https://codesandbox.io/s/switch-tabs-juwo4
 
