@@ -24,6 +24,9 @@ https://codesandbox.io/s/designer-tool-small-figma-lgjxf
 add to cart
 https://codesandbox.io/s/add-to-cart-basic-5pv5n?file=/src/App.js
 
+add to cart: check if already exists
+https://codesandbox.io/s/add-to-cart-check-if-already-exists-xgln8
+
 switch tabs
 https://codesandbox.io/s/switch-tabs-juwo4
 
